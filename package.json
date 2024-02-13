@@ -1,0 +1,22 @@
+{
+  "name": "playwright-app",
+  "version": "1.0.0",
+  "description": "Test Automation using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuvanmehra/playwright-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhuvanmehra/playwright-app/issues"
+  },
+  "homepage": "https://github.com/bhuvanmehra/playwright-app#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.17"
+  }
+}
