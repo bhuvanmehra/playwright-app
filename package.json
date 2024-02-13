@@ -17,6 +17,7 @@
   "homepage": "https://github.com/bhuvanmehra/playwright-app#readme",
   "devDependencies": {
     "@playwright/test": "^1.41.2",
-    "@types/node": "^20.11.17"
+    "@types/node": "^20.11.17",
+    "prettier": "3.2.5"
   }
 }
